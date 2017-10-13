@@ -1,5 +1,4 @@
 # Todo.txt for Android [![](https://img.shields.io/gitter/room/todotxt/todo.txt-android.svg)](https://gitter.im/todotxt/todo.txt-android)
-
 The official Todo.txt Android application by [Gina Trapani](http://ginatrapani.org) and [the Todo.txt community](http://groups.yahoo.com/group/todotxt/) designed to manage your [todo.txt file](http://todotxt.com) stored in [Dropbox](http://dropbox.com).
 
 [Purchase Todo.txt on Google Play](https://play.google.com/store/apps/details?id=com.todotxt.todotxttouch), the [Amazon Appstore](http://www.amazon.com/o/ASIN/B004MNQTVU/ref=nosim/lifehackerboo-20), or download and compile the source code. This app is in active development and there are several [known bugs and todo items](https://github.com/ginatrapani/todo.txt-android/issues). 
